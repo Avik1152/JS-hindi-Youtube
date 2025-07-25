@@ -24,5 +24,5 @@ let state;
 //object
 
 console.log(typeof null); //object
-console.log(typeof undefined); //object
+console.log(typeof undefined); //Undefined
 
